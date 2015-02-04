@@ -1,0 +1,7 @@
+*.class
+**/*.class
+.pmd
+*.MF
+**/.settings
+*.settings
+.metadata/
