@@ -9,7 +9,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		//Sumit this sidedsdsdsdsds
 		//sasadsaasdsadsa
-		System.out.println("Hello world Master");
+		System.out.println("Hello world Master1");
 
 	}
 
