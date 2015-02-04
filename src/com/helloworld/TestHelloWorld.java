@@ -1,15 +1,13 @@
 package com.helloworld;
 
-public class Test {
+public class TestHelloWorld {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Sumit this sidedsdsdsdsds
-		//sasadsaasdsadsa
-		System.out.println("Hello world");
+		System.out.println("sadsadsadsa");
 
 	}
 
